@@ -19,5 +19,11 @@
 
     <!-- Help URL, Fingerprint [DO NOT TRANSLATE] -->
     <string name="help_url_fingerprint" translatable="false">https://support.google.com</string>
+
+    <!-- Email address for the homepage contextual cards feedback -->
+    <string name="config_contextual_card_feedback_email">contextual-settings-homepage-feedback@google.com</string>
+
+    <!-- Google Packages -->
+    <string name="account_type">com.google</string>
 </resources>
 
